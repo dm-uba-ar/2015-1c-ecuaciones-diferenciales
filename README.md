@@ -1,9 +1,4 @@
-# Ecuaciones Diferenciales A - Ecuaciones Diferenciales B — Primer cuatrimestre de 2015
-
-## Equipo docente
-
-- **Clases teóricas:** Julián Fernández Bonder
-- **Clases prácticas:** Luis López
+# Ecuaciones Diferenciales — Primer cuatrimestre de 2015
 
 ## Prácticas
 
